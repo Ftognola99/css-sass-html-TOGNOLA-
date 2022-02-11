@@ -1,0 +1,34 @@
+$color-principal: aquamarine;
+$color-letra: violet;
+$font-principal: verdana, tahoma;
+
+
+
+
+body{
+	background: aquamarine;
+	
+}
+
+
+
+h2{
+	color: $color-letra;
+}
+
+p{
+	color: $color-letra;
+}
+
+.caja{
+	h2{
+		color:black;
+		font-family:arial;
+
+	}
+	p {
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		text-decoration: underline;
+
+	}
+}
